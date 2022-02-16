@@ -1,0 +1,14 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node test.js",
+    "compile-run": "tsc test1.ts && node test1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
