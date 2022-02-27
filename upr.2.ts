@@ -54,7 +54,7 @@ Mugs.forEach((Mug) =>{
     console.log(Mug.break());
 });
 
-console.log(" ")
+console.log(" ");
 
 let glassMug = Mugs.find((mug) => {
     if(mug.material === Materials.Glass){
